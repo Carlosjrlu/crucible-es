@@ -26,6 +26,6 @@
         }
     ],
     "url": "https://github.com/Carlosjrlu/crucible-es",
-    "manifest": "",
-    "download": ""
+    "manifest": "https://github.com/Carlosjrlu/crucible-es/releases/download/0.0.1/module.json",
+    "download": "https://github.com/Carlosjrlu/crucible-es/releases/download/0.0.1/crucible-es.zip"
 }
