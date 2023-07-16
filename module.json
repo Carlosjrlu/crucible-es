@@ -1,0 +1,31 @@
+{
+    "id": "crucible-es",
+    "title": "Translation: Spanish [Crucible]",
+    "description": "Traducción al español del sistema Crucible.",
+    "authors": [
+        {
+            "name": "Cosmo Corban",
+            "discord": "cosmocorban"
+        }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "relationships": {
+        "systems": [{
+            "id": "crucible"
+        }]
+    },
+    "languages": [
+        {
+            "lang": "es",
+            "name": "Español",
+            "path": "lang/es.json"
+        }
+    ],
+    "url": "https://github.com/Carlosjrlu/crucible-es",
+    "manifest": "",
+    "download": ""
+}
