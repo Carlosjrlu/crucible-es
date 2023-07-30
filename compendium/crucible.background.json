@@ -1,0 +1,41 @@
+{
+	"label": "Trasfondos",
+	"entries": {
+		"Acolyte": {
+			"name": "Acólito",
+			"description": "Fuiste una persona de fe. Aprendiste a vivir desinteresadamente al servicio de otros o en búsqueda de un ideal más elevado."
+		},
+		"Constable": {
+			"name": "Gendarme",
+			"description": "Fuiste parte de una organización de aplicación de la ley. Aprendiste a mantener la vigilancia en tu entorno, a trabajar dentro de complejas estructuras sociales, y a proyectar una presencia imponente."
+		},
+		"Merchant": {
+			"name": "Mercader",
+			"description": "Fuiste un vendedor ambulante o tenías una pequeña tienda. Pasaste una parte significativa de tu tiempo aprendiendo el arte de la negociación con personas de todas las esferas de la vida, y dónde se encuentran los límites de la mejor oferta."
+		},
+		"Performer": {
+			"name": "Intérprete",
+			"description": "Fuiste un artista itinerante. Aprendiste a sentirte cómodo en diversas funciones sociales, cómo interpretar a tu audiencia y a embellecer detalles de tu actuación para evocar respuestas emocionales particulares."
+		},
+		"Physician": {
+			"name": "Médico",
+			"description": "Fuiste un sanador o profesional médico de alguna variedad. Has dedicado parte de tu vida al estudio de la ciencia médica y tienes la habilidad de detectar enfermedades en otros. Sabes cómo tratar heridas, enfermedades, y cómo identificar sus fuentes."
+		},
+		"Scholar": {
+			"name": "Erudito",
+			"description": "Siempre te sentiste más cómodo en una biblioteca o en un aula. Tus estudios se centraron en desentrañar los misterios del mundo que te rodea, y hay pocos temas teóricos con los que aún no estés familiarizado."
+		},
+		"Soldier": {
+			"name": "Soldado",
+			"description": "Fuiste un miembro de rango en una organización militar de alguna variedad. La disciplina te hizo sobrevivir y enfatizó la importancia de demostrar fuerza y dominio sobre los demás, y años a caballo o marchando te enseñaron cómo manejar todo tipo de terreno."
+		},
+		"Urchin": {
+			"name": "Huérfano",
+			"description": "Pocos aprenden a sobrevivir como lo hiciste tú. Tu educación fue dura, marcada por la desconfianza. Aprendiste a observar a los demás en busca de señales de peligro o deslealtad, a evitar llamar la atención de otros, escarbando para encontrar comida en las calles de alguna metrópoli."
+		},
+		"Wanderer": {
+			"name": "Trotamundos",
+			"description": "Tu vida ha sido itinerante. Disfrutas nada más que la sensación de un carro o montura debajo de ti, observando cómo un cielo extranjero pasa lentamente por encima. Aprendiste a prestar atención a tus alrededores y sus necesidades, a cuidar de las criaturas de las que dependes, y a arreglártelas con lo que puedas encontrar."
+		}
+	}
+}

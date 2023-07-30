@@ -1,0 +1,145 @@
+{
+	"label": "Armas",
+	"folders": {
+		"Melee (1h)": "Cuerpo a Cuerpo (1M)",
+		"Melee (2h)": "Cuerpo a Cuerpo (2M)",
+		"Ranged": "A distancia",
+		"Shields": "Escudos",
+		"Talisman": "Talismanes",
+		"Unarmed": "Desarmado"
+	},
+	"entries": {
+		"Arcane Orb": {
+			"name": "Orbe arcano"
+		},
+		"Bastard Sword": {
+			"name": "Espada bastarda"
+		},
+		"Battle Axe": {
+			"name": "Hacha de batalla"
+		},
+		"Buckler": {
+			"name": "Broquel"
+		},
+		"Ceremonial Dagger": {
+			"name": "Daga ceremonial"
+		},
+		"Claw Hammer": {
+			"name": "Martillo de orejas"
+		},
+		"Claws": {
+			"name": "Garras"
+		},
+		"Club": {
+			"name": "Garrote"
+		},
+		"Dagger": {
+			"name": "Daga"
+		},
+		"Dart Gun": {
+			"name": "Pistola de dardos"
+		},
+		"Glaive": {
+			"name": "Guja"
+		},
+		"Great Hammer": {
+			"name": "Martillo de guerra"
+		},
+		"Greataxe": {
+			"name": "Hacha a dos manos"
+		},
+		"Greatclub": {
+			"name": "Garrote grande"
+		},
+		"Greatsword": {
+			"name": "Espadón"
+		},
+		"Grimoire": {
+			"name": "Grimorio"
+		},
+		"Halberd": {
+			"name": "Alabarda"
+		},
+		"Hand Axe": {
+			"name": "Hacha de mano"
+		},
+		"Hand Crossbow": {
+			"name": "Ballesta de mano"
+		},
+		"Heater Shield": {
+			"name": "Escudo calefactor"
+		},
+		"Heavy Crossbow": {
+			"name": "Ballesta pesada"
+		},
+		"Katana": {
+			"name": "Katana"
+		},
+		"Katar": {
+			"name": "Katar"
+		},
+		"Kite Shield": {
+			"name": "Escudo de cometa"
+		},
+		"Longbow": {
+			"name": "Arco largo"
+		},
+		"Longsword": {
+			"name": "Espada larga"
+		},
+		"Mage Staff": {
+			"name": "Bastón mágico"
+		},
+		"Pistol": {
+			"name": "Pistola"
+		},
+		"Quarterstaff": {
+			"name": "Bastón"
+		},
+		"Rapier": {
+			"name": "Estoque"
+		},
+		"Sai": {
+			"name": "Sai"
+		},
+		"Scimitar": {
+			"name": "Cimitarra"
+		},
+		"Shortbow": {
+			"name": "Arco corto"
+		},
+		"Shortsword": {
+			"name": "Espada corta"
+		},
+		"Skull Fetish": {
+			"name": "Talismán de calavera"
+		},
+		"Sling": {
+			"name": "Honda"
+		},
+		"Spear": {
+			"name": "Lanza"
+		},
+		"Spiked Greatclub": {
+			"name": "Garrote grande con púas"
+		},
+		"Spiked Knuckles": {
+			"name": "Nudillos con púas"
+		},
+		"Stiletto": {
+			"name": "Estilete"
+		},
+		"Torch": {
+			"name": "Antorcha"
+		},
+		"Tower Shield": {
+			"name": "Escudo de torre"
+		},
+		"War Hammer": {
+			"name": "Martillo de guerra"
+		},
+		"War Lance": {
+			"name": "Lanza de guerra"
+		}
+	}
+}

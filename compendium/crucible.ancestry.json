@@ -1,0 +1,40 @@
+{
+	"label": "Ascendencias",
+	"entries": {
+		"Devilkin": {
+			"name": "Diablo",
+			"description": "Naciste con una inesperada influencia mágica sobre tu creación. Tu apariencia física muestra señales reveladoras que los supersticiosos asocian con seres de otros planos: piel carmesí, alas o cuernos ineficaces, ojos reptilianos. Tu aversión a la luz y tu resistencia preternatural al fuego no hacen mucho para disuadir a la gente de pensar que eres un auténtico diablo."
+		},
+		"Dwarven": {
+			"name": "Enano",
+			"description": "Al igual que tus padres antes que tú, naciste con la fortaleza perdurable de los enanos. Tu estatura robusta y apariencia corpulenta son los rasgos distintivos de un pueblo nacido de la tierra y la piedra. Heredas un legado de resistencia física, pues en tu pecho late un corazón de piedra."
+		},
+		"Elvish": {
+			"name": "Elfo",
+			"description": "Gracioso en movimiento y rápido en el pensamiento, naciste como un elfo de larga vida. Tu estructura esbelta y ágil y tus rasgos esculpidos son los rasgos heredados de un pueblo para quienes la elegancia es un estilo de vida. Tu predisposición hacia el pensamiento rápido y el movimiento preciso es el resultado evolutivo de cientos de años de tradición."
+		},
+		"Giantkin": {
+			"name": "Gigante",
+			"description": "Fuerzas elementales presidieron tu nacimiento, infundiéndote vigor sobrenatural. Tu gran estructura y complexión muscular a menudo llevan a otros a creer que eres una masa de músculos sin pensamiento, pero los tuyos son un pueblo conocido principalmente por su resistencia física y su profundo conocimiento. Has heredado la fuerza de las montañas."
+		},
+		"Gnome": {
+			"name": "Gnomo",
+			"description": "Tu nacimiento fue una celebración llena de exuberancia. Tu cuerpo diminuto y tus rasgos delicados están acompañados de una propensión casi sobrenatural hacia el descubrimiento. Las tradiciones de tu pueblo abrazan el deseo de vivir plenamente y la importancia del pensamiento y la acción rápidos."
+		},
+		"Halfling": {
+			"name": "Mediano",
+			"description": "Fuiste criado en una cría rodeado de otros medianos. Tu estatura lilliputense, tus pies peludos con suelas gruesas y la rapidez de tu mente y cuerpo son lo que tu pueblo conoce mejor. Eres parte de un pueblo para quienes la educación y la tradición son primordiales."
+		},
+		"Human": {
+			"name": "Humano",
+			"description": "Encontrado en innumerables condiciones y lugares lejanos, naciste como un humano siempre adaptable. Alto o bajo, delgado, musculoso o regordete, tu apariencia física no es nada si no variada. Los humanos son conocidos principalmente por una predisposición genética hacia la determinación, con tradiciones que impulsan una voluntad obstinada de sobrevivir."
+		},
+		"Orcish": {
+			"name": "Orco",
+			"description": "Tu nacimiento estuvo marcado por las estrellas y tradiciones de un pueblo orgulloso y resistente. Tu cuerpo alto y bien tonificado y tu propensión natural hacia la dureza tienen su origen en un pueblo expuesto a la lucha implacable de un clima norteño severo. Tu pueblo es conocido por su fuerza y resistencia por encima de todo."
+		}
+	},
+	"mapping": {
+		"description": "system.description"
+	}
+}

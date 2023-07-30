@@ -1,0 +1,40 @@
+{
+	"label": "Armaduras",
+	"folders": {
+		"Heavy": "Pesada",
+		"Light": "Ligera",
+		"Medium": "Media"
+	},
+	"entries": {
+		"Brigandine": {
+			"name": "Brigantina"
+		},
+		"Chain Mail": {
+			"name": "Cota de Malla"
+		},
+		"Heavy Hides": {
+			"name": "Pieles Pesadas"
+		},
+		"Leather Armor": {
+			"name": "Armadura de Cuero"
+		},
+		"Padded Armor": {
+			"name": "Armadura Acolchada"
+		},
+		"Plate Mail": {
+			"name": "Cota de Placas"
+		},
+		"Ring Mail": {
+			"name": "Cota de Anillos"
+		},
+		"Scale Mail": {
+			"name": "Cota de Escamas"
+		},
+		"Splint Mail": {
+			"name": "Cota Laminada"
+		},
+		"Studded Leather Armor": {
+			"name": "Armadura de Cuero Tachonado"
+		}
+	}
+}
